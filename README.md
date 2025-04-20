@@ -61,7 +61,7 @@ Edit
 Because sometimes you just need a fake backend to make your frontend dreams come true. 🌈
 
 🧑‍💻 Made by
-Your Name — lover of APIs, bad jokes, and clean code.
+Saeed ALi — lover of APIs, bad jokes, and clean code.
 
 ⚡ Quick Tip:
 If you break something, don’t worry — just restart the server. Happens to the best of us. 😎
