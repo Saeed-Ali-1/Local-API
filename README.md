@@ -16,7 +16,7 @@ Clone this repo:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/fake-api.git
+git clone https://github.com/Saeed-Ali-1/Local-API.git
 cd fake-api
 Install stuff (if needed):
 
